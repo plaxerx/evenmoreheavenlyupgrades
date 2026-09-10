@@ -1,0 +1,14 @@
+{
+ "Name": "Even More Heavenly Upgrades (Version Update)",
+ "ID": "EMHUFixed",
+ "Author": "pause (bug-fix fork)",
+ "Description": "A bug-fix fork of 'Even More Heavenly Upgrades' by pause. No new content - the upgrade list is unchanged. This build only fixes bugs and gets the existing upgrades working on the current version of the game. Will be taken down upon the original modder's request. Requires CCSE. Do not enable alongside the original.",
+ "ModVersion": 2.9,
+ "GameVersion": 2.053,
+ "Date": "18/08/2026",
+ "Dependencies": [
+  "CCSE"
+ ],
+ "Disabled": 0,
+ "AllowSteamAchievs": 1
+}
